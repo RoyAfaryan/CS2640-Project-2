@@ -12,9 +12,9 @@ This program is a MIPS assembly implementation of a date checker. It prompts the
 
 ## Example Output
 
-Enter the Month? 5
-Enter the Day? 22
-Enter the Year? 2023
+Enter the Month? 5 <br>
+Enter the Day? 22 <br>
+Enter the Year? 2023 <br>
 
 2023 is not a leap year and the date 5/22/2023 is a Monday.
 
